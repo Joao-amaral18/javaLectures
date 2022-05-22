@@ -2,7 +2,7 @@ package br.com.dio;
 
 import br.com.dio.model.Gato;
 
-public class PrimeiroProgramJava {
+public class PrimeiroProgram {
     public static void main(String[] args) {
         Gato gato = new Gato();
 //        int a = 5;
